@@ -1,7 +1,6 @@
 package file;
 
 import bg.tu_varna.sit.GainInput;
-import javafx.scene.chart.ScatterChart;
 
 import java.io.File;
 import java.io.FileNotFoundException;
